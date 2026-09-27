@@ -8,7 +8,7 @@ The solution combines Power BI, DAX, Power Query, HTML/CSS-based custom visuals,
 
 ## Dashboard Preview
 
-![Uploading og.png…]()
+<img width="1672" height="941" alt="og" src="https://github.com/user-attachments/assets/2cd1d8cc-910e-41e3-99aa-d1a1057bdaf4" />
 <img width="1521" height="852" alt="Screenshot 2026-09-27 110055" src="https://github.com/user-attachments/assets/16f3428b-4334-4818-ab5f-f2fc59259a2a" />
 <img width="1517" height="847" alt="Screenshot 2026-09-27 110022" src="https://github.com/user-attachments/assets/a4731c58-ec98-4ec9-a980-fbfc89063623" />
 <img width="1521" height="850" alt="Screenshot 2026-09-27 110122" src="https://github.com/user-attachments/assets/1e3a3942-3b33-4868-b71a-68f593dceb60" />
