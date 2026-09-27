@@ -8,11 +8,10 @@ The solution combines Power BI, DAX, Power Query, HTML/CSS-based custom visuals,
 
 ## Dashboard Preview
 
-![Lean Asset Risk Engine](images/dashboard.png)
-<img width="1521" height="850" alt="Screenshot 2026-09-27 110122" src="https://github.com/user-attachments/assets/1e3a3942-3b33-4868-b71a-68f593dceb60" />
+<img width="1672" height="941" alt="b881739c-aebf-44de-9899-995ce364c515" src="https://github.com/user-attachments/assets/108c14e0-edd7-4092-a6e4-7b3f4d4baf53" />
 <img width="1521" height="852" alt="Screenshot 2026-09-27 110055" src="https://github.com/user-attachments/assets/16f3428b-4334-4818-ab5f-f2fc59259a2a" />
 <img width="1517" height="847" alt="Screenshot 2026-09-27 110022" src="https://github.com/user-attachments/assets/a4731c58-ec98-4ec9-a980-fbfc89063623" />
-
+<img width="1521" height="850" alt="Screenshot 2026-09-27 110122" src="https://github.com/user-attachments/assets/1e3a3942-3b33-4868-b71a-68f593dceb60" />
 ---
 
 ## Overview
